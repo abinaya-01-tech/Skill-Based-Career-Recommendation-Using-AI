@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AI Career Guidance</title>
+<style>
+body {
+    font-family: 'Segoe UI', sans-serif;
+    background: linear-gradient(120deg, #eef2f7, #f9fbfd);
+    margin: 0;
+    padding: 0;
+}
+.container {
+    max-width: 800px;
+    margin: 60px auto;
+    background: white;
+    padding: 40px;
+    border-radius: 20px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+}
+h1 { text-align: center; color: #333; }
+.subtitle { text-align: center; color: #666; margin-bottom: 30px; }
+.checklist {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 15px;
+}
+label {
+    background: #f4f6f8;
+    padding: 15px 18px;
+    border-radius: 12px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    font-size: 15px;
+    transition: 0.3s;
+}
+label:hover { background: #e8f1ff; }
+input[type="checkbox"] { transform: scale(1.2); }
+button {
+    margin-top: 35px;
+    width: 100%;
+    padding: 15px;
+    border: none;
+    border-radius: 15px;
+    background: #4a90e2;
+    color: white;
+    font-size: 17px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background 0.3s ease;
+}
+button:hover { background: #357abd; }
+.ai-tag { text-align: center; margin-bottom: 15px; color: #4a90e2; font-size: 14px; }
+</style>
+</head>
+<body>
+<div class="container">
+    <div class="ai-tag">AI Skill Profiling System</div>
+    <h1>AI-Based Career Guidance</h1>
+    <p class="subtitle">Select the skills and interests that describe you</p>
+    <form method="POST">
+        <div class="checklist">
+            <label><input type="checkbox" name="coding"> Interest in Coding</label>
+            <label><input type="checkbox" name="creativity"> Creative Thinking</label>
+            <label><input type="checkbox" name="communication"> Communication Skills</label>
+            <label><input type="checkbox" name="logical"> Logical Thinking</label>
+            <label><input type="checkbox" name="design"> Designing Skills</label>
+            <label><input type="checkbox" name="research"> Research Interest</label>
+            <label><input type="checkbox" name="math"> Interest in Maths</label>
+            <label><input type="checkbox" name="science"> Interest in Science</label>
+            <label><input type="checkbox" name="leadership"> Leadership Ability</label>
+            <label><input type="checkbox" name="problem"> Problem Solving</label>
+            <label><input type="checkbox" name="writing"> Writing Skills</label>
+            <label><input type="checkbox" name="speaking"> Public Speaking</label>
+            <label><input type="checkbox" name="teamwork"> Teamwork</label>
+            <label><input type="checkbox" name="sports"> Interest in Sports</label>
+        </div>
+        <button type="submit">Get Career Recommendation</button>
+    </form>
+</div>
+</body>
+</html>
+
+

@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Career Result</title>
+<style>
+body { font-family: 'Segoe UI', sans-serif; background:#f4f6f8; margin:0; padding:0; text-align:center; }
+.result-card { background:#fff; max-width:500px; margin:100px auto; padding:40px; border-radius:15px; box-shadow:0 4px 20px rgba(0,0,0,0.1); }
+h2 { color:#333; margin-bottom:20px; }
+ul { text-align:left; display:inline-block; margin-top:20px; padding-left:20px; }
+a { display:inline-block; margin-top:20px; padding:12px 25px; background:#4a90e2; color:white; border-radius:10px; text-decoration:none; font-weight:bold; }
+a:hover { background:#357abd; }
+</style>
+</head>
+<body>
+<div class="result-card">
+<h2>AI Career Recommendation</h2>
+<p>Based on your selected skills, your recommended careers are:</p>
+<ul>
+{% for career in careers %}
+    <li>{{ career }}</li>
+{% endfor %}
+</ul>
+<a href="/">Try Again</a>
+</div>
+</body>
+</html>
+
+

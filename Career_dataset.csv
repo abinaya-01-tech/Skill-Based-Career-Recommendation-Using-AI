@@ -1,0 +1,67 @@
+Coding,Creativity,Communication,Logical,Design,Research,Math,Science,Leadership,Problem,Writing,Speaking,Teamwork,Sports,Course
+0,0,0,1,0,1,0,1,0,1,0,0,0,0,Medicine
+0,0,0,1,0,1,1,1,0,1,0,0,0,0,Medicine
+0,0,0,1,0,1,0,1,0,1,0,0,0,0,Life Sciences
+0,0,0,1,0,1,1,1,0,1,0,0,0,0,Biotechnology
+0,0,0,1,0,1,1,1,0,1,0,0,0,0,Microbiology
+1,0,0,1,0,0,1,0,0,1,0,0,0,0,Computer Science
+1,0,0,1,0,0,1,0,0,1,0,0,0,0,Software Development
+1,0,0,1,0,0,1,0,0,1,0,0,0,0,Programming
+1,0,0,1,0,0,0,0,0,1,0,0,0,0,Web Development
+1,0,0,1,0,0,1,0,0,1,0,0,0,0,Artificial Intelligence
+0,1,1,0,1,0,0,0,0,0,0,0,1,0,Design
+0,1,1,0,1,0,0,0,0,0,0,0,1,0,Visual Communication
+0,1,1,0,1,0,0,0,0,0,0,0,1,0,Fine Arts
+0,1,1,0,1,0,0,0,0,0,0,0,1,0,Graphic Design
+0,1,0,0,1,0,0,0,0,0,0,0,1,0,UI UX Design
+0,0,1,0,0,0,0,0,0,0,1,0,1,0,English Studies
+0,0,1,0,0,0,0,0,0,0,1,0,1,0,Journalism
+0,0,1,0,0,0,0,0,0,0,1,0,1,0,Mass Communication
+0,0,1,0,0,0,0,0,0,0,1,0,1,0,Public Relations
+0,0,1,0,0,0,0,0,0,0,1,0,1,0,Content Writing
+0,0,0,1,0,0,1,0,0,1,0,0,0,0,Mathematics
+0,0,0,1,0,0,1,0,0,1,0,0,0,0,Statistics
+0,0,0,1,0,0,1,0,0,1,0,0,0,0,Engineering
+0,0,0,1,0,0,1,0,0,1,0,0,0,0,Technical Studies
+0,0,0,1,0,0,1,0,0,1,0,0,0,0,Applied Mathematics
+0,0,0,1,0,1,1,0,0,1,0,0,0,0,Data Science
+1,0,0,1,0,1,1,0,0,1,0,0,0,0,Artificial Intelligence and Data
+1,0,0,1,0,1,1,0,0,1,0,0,0,0,Machine Learning
+1,0,0,1,0,1,1,0,0,1,0,0,0,0,Analytics
+1,0,0,1,0,1,1,0,0,1,0,0,0,0,Information Systems
+0,0,0,0,0,1,0,1,0,1,0,0,0,0,Physics
+0,0,0,0,0,1,0,1,0,1,0,0,0,0,Chemistry
+0,0,0,0,0,1,0,1,0,1,0,0,0,0,Environmental Science
+0,0,0,0,0,1,0,1,0,1,0,0,0,0,Biomedical Science
+0,0,0,0,0,1,0,1,0,1,0,0,0,0,Forensic Science
+0,1,1,0,0,0,0,0,0,0,0,0,1,0,Psychology
+0,1,1,0,0,0,0,0,0,0,0,0,1,0,Sociology
+0,1,1,0,0,0,0,0,0,0,0,0,1,0,Human Resources
+0,1,1,0,0,0,0,0,0,0,0,0,1,0,Social Work
+1,0,0,1,0,0,1,0,1,1,0,0,0,0,Software Engineer
+1,0,0,1,0,0,1,0,1,1,0,0,0,0,App Developer
+1,0,0,1,0,0,1,0,1,1,0,0,0,0,Game Developer
+0,0,0,1,0,1,0,1,1,1,0,0,0,0,Scientist
+0,0,0,1,0,1,0,1,1,1,0,0,0,0,Researcher
+0,0,1,0,0,0,0,0,1,0,1,1,1,0,Teacher
+0,0,1,0,0,0,0,0,1,0,1,1,1,0,Professor
+0,0,1,0,0,0,0,0,0,0,1,1,1,0,Writer
+0,0,1,0,0,0,0,0,0,0,1,1,1,0,Journalist
+0,1,1,0,1,0,0,0,1,0,0,0,1,0,Designer
+0,1,0,0,1,0,0,0,1,0,0,0,1,0,Architect
+1,0,0,1,0,0,1,0,1,1,0,0,0,0,Entrepreneur
+0,0,0,0,0,0,0,0,1,0,1,1,1,0,Business Student
+0,0,0,0,0,0,0,0,0,0,0,0,1,1,Sports Person
+0,0,0,0,0,0,0,0,0,0,0,0,1,1,Coach
+1,0,0,1,0,1,1,0,0,1,0,0,0,0,AI Student
+0,0,0,1,0,1,1,0,0,1,0,0,0,0,Data Analyst
+0,0,0,1,0,1,0,1,0,1,0,0,0,0,Science Student
+0,0,0,0,0,0,0,0,0,0,1,1,1,0,Content Creator
+0,0,0,1,0,0,1,0,0,1,0,0,0,0,Engineering Student
+0,0,1,0,0,0,0,0,0,0,1,0,1,0,English Student
+0,0,0,1,0,0,1,0,0,1,0,0,0,0,Maths Student
+0,1,1,0,1,0,0,0,1,0,0,0,1,0,Design Student
+1,0,0,1,0,0,1,0,0,1,0,0,0,0,Computer Science Student
+0,1,1,0,0,0,0,0,1,0,0,0,1,0,HR
+0,0,0,1,0,1,0,1,0,1,0,0,0,0,Doctor
+0,0,0,1,0,1,0,1,0,1,0,0,0,0,Doctor

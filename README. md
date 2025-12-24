@@ -1,0 +1,31 @@
+# AI-Based Career Guidance System 🎓🤖
+
+An AI-powered web application that recommends suitable career paths based on a user's skills and interests.
+
+## 🚀 Features
+- Skill-based career recommendation
+- Clean and modern UI
+- Interactive checklist-based input
+- AI-driven logic for guidance
+
+## 🛠 Tech Stack
+- HTML, CSS
+- Python (Flask)
+- Rule-based / AI logic
+
+## 📌 How It Works
+1. User selects skills and interests
+2. System analyzes selections
+3. Career recommendations are generated
+
+## 👩‍💻 Developed By
+Abinaya  
+2nd Year B.Tech IT Student
+
+## 🔗 Future Enhancements
+- Machine Learning model integration
+- User login system
+- Detailed career roadmap
+# SkillMap AI – Intelligent Career Recommendation System
+
+SkillMap AI is a dataset-driven web application that recommends suitable career paths based on user skills and interests. The system analyzes user selections against a structured career dataset to generate accurate and personalized career recommendations through a clean and interactive interface.
