@@ -8,10 +8,10 @@ app = Flask(__name__)
 import os
 import pandas as pd
 
-# Get the directory where app.py is
+# Get the directory where app.py is located
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
-# Build the full path to the CSV
+# Construct the full path to the CSV
 data_path = os.path.join(BASE_DIR, "career_dataset.csv")
 
 # Load the CSV
