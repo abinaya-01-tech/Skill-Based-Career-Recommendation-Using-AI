@@ -5,8 +5,18 @@ import numpy as np
 
 app = Flask(__name__)
 
-# -------------------- Load Dataset --------------------
-data = pd.read_csv("career_dataset.csv")
+import os
+import pandas as pd
+
+# Get the directory where app.py is
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+
+# Build the full path to the CSV
+data_path = os.path.join(BASE_DIR, "career_dataset.csv")
+
+# Load the CSV
+data = pd.read_csv(data_path)
+
 
 # Standardize column names
 data.columns = data.columns.str.strip().str.lower()
